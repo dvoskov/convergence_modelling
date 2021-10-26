@@ -1,0 +1,43 @@
+Dear Students,
+
+Please find below the recommended exercises for week 2.
+
+1. Practice with the least-squares approach:
+
+Two data files are uploaded to BrightSpace, particularly:
+The recorded data (dependent variable, y) in the file "data_record.txt"
+The location where the data is located (independent variable, x) in the file "data_location.txt"
+Exercise: 
+Fit a line to the data using the Least-Squares method (boils down to finding 2 coefficients, see exercise in class)
+Fit a parabola to the data using Least-Squares method (i.e. find 3 coefficients)
+
+2. Practice with numerical derivatives (at least 5 exercises) from the following source:
+
+http://tutorial.math.lamar.edu/Problems/CalcI/DiffFormulas.aspx 
+
+3. Practice with numerical integration (at least 5 exercises) from the following source: 
+
+http://tutorial.math.lamar.edu/Problems/CalcI/ComputingDefiniteIntegrals.aspx
+
+4. Please watch the following two videos on Taylor Series before next class:
+
+https://www.youtube.com/watch?v=epgwuzzDHsQ 
+https://www.youtube.com/watch?v=cjPoEZ0I5wQ
+
+5.  Additional programming exercises:
+
+Read through this page: https://www.python-course.eu/numpy_numerical_operations_on_numpy_arrays.php
+Make at least 3 exercises from the following topics on this page: https://www.w3resource.com/python-exercises/numpy/index.php
+NumPy Basic
+NumPy arrays
+NumPy Linear Algebra
+NumPy Random
+NumPy Sorting and Searching
+NumPy Mathematics
+NumPy Statistics
+
+Let us know if you struggling with any of these exercises.
+
+Best Regards,
+
+Denis and Stephan

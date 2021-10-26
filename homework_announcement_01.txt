@@ -1,0 +1,35 @@
+Dear students,
+
+We hope that you enjoyed the first session of the Modelling Convergence Course. In order to practice using Python and programming, in general, we recommend you to perform the exercises below (approximately 2-3 hours): 
+
+Make at least 2 exercises from all of these categories (source: https://www.w3resource.com/python-exercises/ )
+Python Basic (Part-1)
+Python Basic (Part-2)
+Python Data Types - String
+Python Data Types - List
+Python Data Types - Dictionary
+Python Data Types - Tuple
+Python Data Types - Sets
+Python Array
+Python Conditional statements and loops
+Python functions
+Python Math
+Python File Input Output
+Python NumPy Basic
+Python NumPy arrays
+
+After this practice, finish the exercises we did not finish during the lecture. 
+
+The next lecture will involve knowledge about Linear Algebra. We recommend spending at least one hour reading the provided Linear Algebra slides. For this, go to Content --> Convergence Reading Material --> Modelling --> self-study-linear-algebra.pdf.  We will go over the main ideas again during the start of the next lecture, but in order to follow along, it is expected that it will not be the first time you see these concepts :).
+
+So to summarize, the expected homework for the next lectures required at least four hours of self-study (more if you have never programmed before). 
+
+We are looking forward to seeing you next week. If you have a problem with the self-study material, please consult your peers or make an appointment with us. Our contacts:
+
+Denis Voskov (D.V.Voskov@tudelft.nl)
+
+Stephan de Hoop (S.deHoop-1@tudelft.nl). 
+
+Yours sincerely,
+
+Denis and Stephan
